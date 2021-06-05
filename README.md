@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Izanvz
+- 👀 I’m interested in ducks
+- 🌱 I’m currently learning java/javascript/c++/python/MySql
+- 📫 How to reach me izanvillarejo2002@gmail.com
