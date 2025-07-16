@@ -13,7 +13,7 @@ Todo lo que encontrarás aquí responde a una necesidad real, una curiosidad pro
 
 - **Procesamiento inteligente de audio**:  
   Transcripción, traducción, diarización y análisis de audios reales.  
-  Trabajo con pipelines optimizados para uso local con máxima precisión.  
+  Trabajo con pipelines optimizados para uso local o uso de APIs externas.  
   Automatización completa del flujo: desde entrada cruda hasta análisis estructurado.
 
 - **Interfaces y APIs funcionales**:  
@@ -40,9 +40,6 @@ Todo lo que encontrarás aquí responde a una necesidad real, una curiosidad pro
 - **AudioSmart**  
   Análisis completo de audio en local: transcripción, etiquetado de hablantes, resumen y traducción opcional.  
   Todo en un solo pipeline, sin depender de servicios externos.
-
-- **API para análisis de audio**  
-  Exposición vía FastAPI del sistema anterior, pensado para integración en flujos colaborativos.
 
 - **Sistema de RL personalizado (en construcción)**  
   Proyecto propio desde cero, sin librerías de alto nivel, para entender RL en profundidad.
