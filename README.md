@@ -1,54 +1,98 @@
-# 👋 Hola, soy Izan
+# Izan Villarejo
 
-**Programador autodidacta con foco en Inteligencia Artificial aplicada, Automatización y Procesamiento de Audio y Lenguaje Natural.**  
-Todo lo que encontrarás aquí responde a una necesidad real, una curiosidad profunda o una intención clara de construir algo útil.
+Backend Developer especializado en Inteligencia Artificial y Automatización
 
----
-
-## 🧠 Intereses actuales
-
-- **Inteligencia Artificial**:  
-  Desarrollo y aplicación de modelos de NLP, RL y ML, buscando balance entre rendimiento y portabilidad (uso local).  
-  Experiencia con modelos como Whisper, pyannote.audio, LLMs open-source y DeepSeek.
-
-- **Procesamiento inteligente de audio**:  
-  Transcripción, traducción, diarización y análisis de audios reales.  
-  Trabajo con pipelines optimizados para uso local o uso de APIs externas.  
-  Automatización completa del flujo: desde entrada cruda hasta análisis estructurado.
-
-- **Interfaces y APIs funcionales**:  
-  Exposición de herramientas vía FastAPI.  
-  Construcción de frontends con Streamlit para facilitar el acceso a soluciones complejas.
-
-- **Reinforcement Learning (en desarrollo)**:  
-  Exploración activa en Q-Learning, entornos Gymnasium y más.  
-  Proyecto en curso con visión práctica, no académica.
+> Si una tarea se repite una y otra vez, hago que la haga una máquina, no una persona.
 
 ---
 
-## 🛠️ Stack actual
+## Sobre mí
 
-- **Lenguajes**: Python (principal), bash scripting
-- **Librerías/Frameworks**: WhisperX, pyannote.audio, HuggingFace, FastAPI, Streamlit, NumPy, OpenCV
-- **Dev Tools**: Git, venvs aislados, scripts CLI, uso avanzado de consola
-- **Entornos**: Desarrollo local (GPU NVIDIA), sin dependencia de APIs externas cuando se puede evitar
+Soy **Izan Villarejo**, desarrollador backend enfocado en **Inteligencia Artificial aplicada y automatización de procesos**. Trabajo justo donde se cruzan el código, los datos y las necesidades reales del negocio.
 
----
+Lo que me mueve es simple: **automatizar lo repetitivo, reducir errores y ahorrar tiempo**. No me interesa la IA como concepto abstracto, sino como herramienta práctica para mejorar cómo funcionan las empresas por dentro.
 
-## 🚧 Proyectos destacados
-
-- **AudioSmart**  
-  Análisis completo de audio en local: transcripción, etiquetado de hablantes, resumen y traducción opcional.  
-  Todo en un solo pipeline, sin depender de servicios externos.
-
-- **Sistema de RL personalizado (en construcción)**  
-  Proyecto propio desde cero, sin librerías de alto nivel, para entender RL en profundidad.
+Empecé con el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y ahí tuve claro que quería ir más allá del desarrollo tradicional. Por eso continué con un **Grado de Especialización en Inteligencia Artificial y Big Data**, centrado en modelos, datos y toma de decisiones basada en información real.
 
 ---
 
-## 💡 Filosofía de trabajo
+## En qué trabajo
 
-- Código claro, modular y mantenible.
-- Resultados reales por encima de demos vistosas.
-- No busco reinventar la rueda, pero sí entender cómo gira.
-- Aprender, mejorar y compartir sin postureo.
+- Automatización de procesos mediante IA
+- Desarrollo backend orientado a producción
+- Diseño de pipelines de datos y modelos
+- Integración de modelos de IA en APIs y servicios
+- Optimización de procesos internos en empresas
+
+No hago proyectos de escaparate. Hago sistemas que tienen sentido usar.
+
+---
+
+## Stack principal
+
+**Lenguaje**
+- Python (backend e IA aplicada)
+
+**Inteligencia Artificial**
+- Machine Learning y Deep Learning
+- Modelos supervisados, no supervisados y profundos
+- Scikit-learn, TensorFlow, PyTorch
+
+**Backend**
+- Diseño y desarrollo de APIs
+- Procesamiento y análisis de datos
+- Automatización de flujos y servicios
+
+**Bases de datos**
+- MySQL
+- MariaDB
+- MongoDB
+
+---
+
+## Formación
+
+- Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+- Grado de Especialización en Inteligencia Artificial y Big Data
+
+Durante esta etapa profundicé en:
+- Aprendizaje automático
+- Aprendizaje profundo
+- Desarrollo de modelos de IA
+- Sistemas predictivos basados en datos
+
+---
+
+## Experiencia
+
+He trabajado como **desarrollador backend**, integrando modelos de IA en sistemas de producción, diseñando APIs robustas y conectando servicios para crear **automatizaciones inteligentes** que reducen trabajo manual, tiempos y errores.
+
+Siempre con un enfoque claro: que el sistema funcione, escale y sea mantenible.
+
+---
+
+## Cómo trabajo
+
+- Automatizo todo lo que se repite
+- Pienso primero en producción, no solo en el modelo
+- Prioridad a soluciones simples pero efectivas
+- Código claro, procesos claros, impacto real
+
+---
+
+## Proyectos
+
+En este GitHub encontrarás proyectos relacionados con:
+- IA aplicada a problemas reales
+- Automatización de procesos
+- Backend y APIs
+- Experimentación práctica con modelos y datos
+
+---
+
+## Contacto
+
+- LinkedIn: https://www.linkedin.com/in/izan-villarejo-ai/
+- GitHub: https://github.com/Izanvz
+
+Estoy buscando seguir creciendo en entornos donde la **IA y el backend** se usen para mejorar de verdad cómo trabajan las personas y las empresas.
