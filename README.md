@@ -30,6 +30,11 @@ Si una tarea se repite, la automatizo. Si un proceso falla, lo instrumentalizo. 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
+**Agentes & Orquestación LLM**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
 **Datos & Observabilidad**
 
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
@@ -58,8 +63,8 @@ Detecta productos y lee precios en imágenes de lineales de tienda. El mayor ret
 ---
 
 ### 🤖 [MeetingAgent](https://github.com/Izanvz/MeetingAgent)
-Le das la grabación de una reunión y te saca el resumen, los puntos de acción y quién se comprometió a qué. Sin que nadie tenga que tomar notas.  
-`Python` · `LLMs` · `FastAPI`
+Le das la grabación de una reunión y te saca el resumen, los puntos de acción y quién se comprometió a qué. El flujo está orquestado con LangGraph: cada nodo del grafo maneja una fase del procesado (transcripción, extracción, síntesis), lo que permite controlar el estado entre pasos y reintentar nodos concretos sin reejecutar todo el pipeline.  
+`LangGraph` · `LangChain` · `Python` · `FastAPI`
 
 ---
 
